@@ -1,2 +1,2 @@
 # Roblox-Development
-Repository for developing roblox games $_$
+Repository for developing roblox games ^_^
